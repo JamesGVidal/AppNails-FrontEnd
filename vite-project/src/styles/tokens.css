@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght,SOFT,WONK@9..144,400..800,0..100,0..1&family=Manrope:wght@400;500;600;700&display=swap");
+
+:root {
+  /* cores */
+  --azul: #6B8BAD;            /* azul da marca (logo) */
+  --azul-forte: #4E6C8E;      /* cards de destaque, seleção */
+  --azul-tinta: #34506F;      /* títulos, botões primários, links */
+  --azul-hover: #1F3550;      /* hover de links */
+  --creme: #F4E4CB;           /* creme da marca: superfícies, texto sobre azul */
+  --fundo: #FBF5EC;           /* fundo da página */
+  --fundo-escuro: #22303F;    /* fundo da prova virtual */
+  --cartao: #FFFBF4;          /* cards */
+  --borda: #EADCC6;           /* bordas e divisores */
+  --borda-tracejada: #DCCDB6; /* itens indisponíveis */
+  --borda-dia: #E2D3BC;       /* dias livres do calendário */
+  --borda-legenda: #B9A88F;   /* quadradinhos da legenda do calendário */
+  --texto: #2B3A4D;           /* texto principal */
+  --texto-corpo: #4A3F33;     /* parágrafos */
+  --texto-suave: #5E5141;     /* texto secundário */
+  --rotulo: #6E5F4C;          /* rótulos em caixa alta */
+  --taupe: #7B6B57;           /* estrelinhas e detalhes */
+  --desativado: #8A7B68;
+  --alerta: #B5543C;          /* ponto de notificação */
+
+  /* tipografia */
+  --fonte-titulo: 'Fraunces', serif; /* sempre com font-variation-settings: 'SOFT' 100 */
+  --fonte-texto: 'Manrope', sans-serif;
+
+  /* raios */
+  --raio-chip: 16px;
+  --raio-card: 22px;
+  --raio-destaque: 28px;
+  --raio-pilula: 999px;
+
+  /* espaçamentos */
+  --espaco-4: 4px;
+  --espaco-8: 8px;
+  --espaco-12: 12px;
+  --espaco-16: 16px;
+  --espaco-20: 20px;
+  --espaco-24: 24px;
+  --espaco-32: 32px;
+  --espaco-48: 48px;
+  --espaco-64: 64px;
+}
